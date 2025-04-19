@@ -70,11 +70,3 @@ Final report includes:
 
 - RapidNJ was excluded due to platform compatibility issues (MacOS / Windows).
 - QuickTree comparison was done using PowerShell timing (`Measure-Command`).
-
----
-
-## 👨‍💻 Author
-
-**Al Ashrif Bin Ahamed**  
-Aarhus University  
-Spring 2025 – Algorithm in Bioinformatics
