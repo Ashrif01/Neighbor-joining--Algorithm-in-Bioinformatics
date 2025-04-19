@@ -1,0 +1,15 @@
+File name,runtime in seconds,success,Output tree
+1347_FAINT.phy,2036.87,TRUE,nj_outputs\1347_FAINT.nwk
+1493_Fe-ADH.phy,2677.2,TRUE,nj_outputs\1493_Fe-ADH.nwk
+1560_Ferritin.phy,3184.94,TRUE,nj_outputs\1560_Ferritin.nwk
+1689_FGGY_N.phy,3808.97,TRUE,nj_outputs\1689_FGGY_N.nwk
+1756_FAD_binding_3.phy,4265.69,TRUE,nj_outputs\1756_FAD_binding_3.nwk
+1849_FG-GAP.phy,4817.17,TRUE,nj_outputs\1849_FG-GAP.nwk
+214_Arena_glycoprot.phy,3.15,TRUE,nj_outputs\214_Arena_glycoprot.nwk
+304_A1_Propeptide.phy,16.05,TRUE,nj_outputs\304_A1_Propeptide.nwk
+401_DDE.phy,43.06,TRUE,nj_outputs\401_DDE.nwk
+494_Astro_capsid.phy,84.22,TRUE,nj_outputs\494_Astro_capsid.nwk
+608_Gemini_AL2.phy,160.14,TRUE,nj_outputs\608_Gemini_AL2.nwk
+777_Gemini_V1.phy,340.35,TRUE,nj_outputs\777_Gemini_V1.nwk
+877_Glu_synthase.phy,492.27,TRUE,nj_outputs\877_Glu_synthase.nwk
+89_Adeno_E3_CR1.phy,0.52,TRUE,nj_outputs\89_Adeno_E3_CR1.nwk

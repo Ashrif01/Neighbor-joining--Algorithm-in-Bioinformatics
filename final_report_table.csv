@@ -1,0 +1,15 @@
+filename,runtime_sec,rf_distance,max_rf,normalized_rf,quicktree_runtime_sec,speedup_vs_qt,speedup_vs_rapidnj
+1347_FAINT.phy,2036.87,41,180,0.2278,7.8,0.0,N/A
+1493_Fe-ADH.phy,2677.2,43,192,0.2239,6.3,0.0,N/A
+1560_Ferritin.phy,3184.94,32,170,0.1882,7.1,0.0,N/A
+1640_CoA_bind.phy,3808.97,29,150,0.1933,5.4,0.0,N/A
+1707_Cys_knot.phy,4265.69,26,142,0.1831,4.9,0.0,N/A
+1732_Histidine_kinase.phy,4817.17,37,169,0.2195,6.5,0.0,N/A
+1756_FAD_binding_3.phy,3.15,58,200,0.29,9.0,2.86,N/A
+1772_FAD_binding_6.phy,16.05,33,170,0.1941,6.9,0.43,N/A
+1806_NAD_binding_1.phy,43.06,39,180,0.2167,7.6,0.18,N/A
+1815_Lig_chan.phy,84.22,35,170,0.2059,6.4,0.08,N/A
+1830_Glyco_hydro_18.phy,160.14,31,165,0.1879,6.2,0.04,N/A
+1849_PAS.phy,340.35,42,188,0.2234,7.5,0.02,N/A
+1849_PBP.phy,492.27,40,185,0.2162,7.3,0.01,N/A
+89_Adeno_E3_CR1.phy,0.52,12,100,0.12,1.5,2.88,N/A
